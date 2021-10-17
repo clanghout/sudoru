@@ -1,0 +1,2 @@
+# Sudoru
+sudoku in Rust
